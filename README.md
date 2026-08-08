@@ -1,16 +1,36 @@
 ## Hi there 👋
 
-<!--
-**Maxim-programmer12/Maxim-programmer12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📋 Description
 
-Here are some ideas to get you started:
+I'm Maxim, a programmer from Belarus.  
+I love learning new technologies and applying them in my projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+
+- ***🐍 Languages & Markup***
+  - Python
+  - C
+  - HTML
+  - CSS
+
+- ***🧩 Frameworks & Libraries***
+  - aiogram
+  - discord.py
+  - asyncio
+  - asyncpg
+  - **Currently learning:** FastAPI · Django
+
+- ***🛠️ Tools***
+  - Git
+  - **Currently learning:** Docker · Docker Compose
+
+- ***🗄️ Databases***
+  - PostgreSQL · SQLite
+  - Redis
+
+- ***📨 Message Brokers***
+  - **Currently learning:** RabbitMQ
+
+- ***🎨 Design***
+  - Tilda
+  - Figma
